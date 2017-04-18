@@ -1,7 +1,9 @@
 <html>
 <head>
-<script src="js/engine.js"></script>
+<script src="js/model.js"></script>
+<script src="js/controller.js"></script>
 <link rel="stylesheet" type="text/css" href="style/style.css">
+
 <style>
 #calc{width:300px;height:250px;}
 .btn{width:100%;height:40px;font-size:20px;}
@@ -12,32 +14,33 @@
 <div align="center">
 <table id="calc" border=2>
 <tr>
-<td colspan=4><input class="btn" id="mainInput" type="text" disabled></td>
+<td colspan=4><input class="fullSize" id="mainInput" type="text" disabled></td>
 </tr>
 <tr>
-<td><input class="btn" type=button value="0" OnClick="press('0')"></td>
-<td><input class="btn" type=button value="1" OnClick="press('1')"></td>
-<td><input class="btn" type=button value="2" OnClick="press('2')"></td>
-<td><input class="btn" type=button value="3" OnClick="press('3')"></td>
+<td><input class="fullSize" type=button value="0" OnClick="_controller.press('0')"></td>
+<td><input class="fullSize" type=button value="1" OnClick="_controller.press('1')"></td>
+<td><input class="fullSize" type=button value="2" OnClick="_controller.press('2')"></td>
+<td><input class="fullSize" type=button value="3" OnClick="_controller.press('3')"></td>
 </tr>
 <tr>
-<td><input class="btn" type=button value="4" OnClick="press('4')"></td>
-<td><input class="btn" type=button value="5" OnClick="press('5')"></td>
-<td><input class="btn" type=button value="6" OnClick="press('6')"></td>
-<td><input class="btn" type=button value="7" OnClick="press('7')"></td>
+<td><input class="fullSize" type=button value="4" OnClick="_controller.press('4')"></td>
+<td><input class="fullSize" type=button value="5" OnClick="_controller.press('5')"></td>
+<td><input class="fullSize" type=button value="6" OnClick="_controller.press('6')"></td>
+<td><input class="fullSize" type=button value="7" OnClick="_controller.press('7')"></td>
 </tr>
 <tr>
-<td><input class="btn" type=button value="8" OnClick="press('8')"></td>
-<td><input class="btn" type=button value="9" OnClick="press('9')"></td>
-<td><input class="btn" type=button value="x" OnClick="press('*')"></td>
-<td><input class="btn" type=button value="/" OnClick="press('/')"></td>
+<td><input class="fullSize" type=button value="8" OnClick="_controller.press('8')"></td>
+<td><input class="fullSize" type=button value="9" OnClick="_controller.press('9')"></td>
+<td><input class="fullSize" type=button value="x" OnClick="_controller.press('*')"></td>
+<td><input class="fullSize" type=button value="/" OnClick="_controller.press('/')"></td>
 </tr>
 <tr>
-<td><input class="btn" type=button value="C" OnClick="clear()"></td>
-<td><input class="btn" type=button value="=" OnClick="calc()"></td>
-<td><input class="btn" type=button value="-" OnClick="press('-')"></td>
-<td><input class="btn" type=button value="+" OnClick="press('+')"></td>
+<td><input class="fullSize" type=button value="C" OnClick="_controller.clear()"></td>
+<td><input class="fullSize" type=button value="=" OnClick="_controller.calc()"></td>
+<td><input class="fullSize" type=button value="-" OnClick="_controller.press('-')"></td>
+<td><input class="fullSize" type=button value="+" OnClick="_controller.press('+')"></td>
 </tr>
 </table></div>
+<label id="error"/>
 </body>
 </html>
