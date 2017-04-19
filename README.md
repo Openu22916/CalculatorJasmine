@@ -8,10 +8,10 @@ About [Jasmine](https://github.com/jasmine/jasmine) -
 3. Jasmine's Documentation & guides can be found at: http://jasmine.github.io
 4. Jasmine's GitHub repository can be found at: https://github.com/jasmine/jasmine
 
-###Working Project Directly from this repository can be found at:
+### Working Project Directly from this repository can be found at:
 https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/index.html
 
-###Working Jasmine TDDs Output Directly from this repository can be found at:
+### Working Jasmine TDDs Output Directly from this repository can be found at:
 https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
 
 
