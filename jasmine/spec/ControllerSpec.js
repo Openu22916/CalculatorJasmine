@@ -1,3 +1,4 @@
+//From Backlog : this is a Test Class according to Task #15
 describe("Controller", function() {
   var controller;
   var inputElement;
@@ -8,6 +9,7 @@ describe("Controller", function() {
       controller.clear();
   });
 
+  //From Backlog : This Simple Test within the Test Class of Task #15
   it("should add 6 with 4", function() {
       controller.press("6");
     expect(HTMLElements["mainInput"].value).toEqual("6");
