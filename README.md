@@ -1,5 +1,7 @@
 # CalculatorJasmine
-This Project is an investigation project for the JASMINE framework, it was create for Software engineering class in the Open University and should contain documentation regarding Jasmine's TDDs solution and SE Practices, it should also contain fixes for issues raised by actual users of the JASMINE Tool.
+This Project is an investigation project for the JASMINE framework.
+It was create for Software engineering class 22916 in the Open University.
+This project contain documentation regarding Jasmine's TDDs solution and its SE Practices, it should also contain fixes for issues raised by actual users of the JASMINE Tool.
 
 About [Jasmine](https://github.com/jasmine/jasmine) - 
 1. Jasmine is a JavaScript Testing Framework,
