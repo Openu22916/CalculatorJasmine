@@ -38,6 +38,7 @@ https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
     * Use of Story Points, Acceptans Criteria, Tasks and US within a sprint
   
 4. Helping the JASMINE Project by trying to fix exiting issues within it :heavy_check_mark:
+    * Fix for Issue #1317 - "Calling to toThrowError with no arguments erros via assuming the undefined argument is a regex" pull request was inserted.
 
 
 
