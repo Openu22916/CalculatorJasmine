@@ -24,7 +24,8 @@ https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
 ### The work on this project will be divided into 4 sections:
 1. Backlog Creation and Grooming :heavy_check_mark:
 2. Investigation & Demo Project :heavy_check_mark:
-3. Investigation of Software Engineering methods and functionalities used in the JASMINE TDDs project, including:
+3. Investigation of Software Engineering methods and functionalities used in the JASMINE TDDs project :heavy_check_mark:
+ including:
     * Version Control System - the Entire JASMINE Project is saved and handled using GitHub.
     * TDDs - The project's main purpose is to give TDD abilities to JS Developers - even if it wasnt constructed with TDDs it is worh mentioning that this is the main SE practice this project is talking about.
     * Reuse - This project reuses multiple existing technologies from the web and JS word, some of them are AJAX, NodeJS and Pythons Egg, Ruby Gems and 
@@ -35,7 +36,7 @@ https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
     * Use of Iterations(Sprints) of a week - https://www.pivotaltracker.com/reports/v2/projects/10606/iterations/current
     * Use of Story Points, Acceptans Criteria, Tasks and US within a sprint
   
-4. Helping the JASMINE Project by trying to fix exiting issues within it
+4. Helping the JASMINE Project by trying to fix exiting issues within it :heavy_check_mark:
 
 
 
