@@ -27,5 +27,15 @@ describe("Controller", function() {
       controller.calc();
       expect(HTMLElements["error"].innerText).toEqual("Unexpected end of input");
   });
+  
+  it("should throw the sample error to reproduce issue 1317", function() {
+	 expect(function() {
+        controller.ThrowSampleError();
+    }).toThrowError(Error); 
+	
+	expect(function() {
+        controller.ThrowSampleError();
+    }).toThrowError(); 
+  });
 
 });

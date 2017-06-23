@@ -49,6 +49,13 @@ function Controller() {
         var errorLabel = document.getElementById('error');
         errorLabel.innerText = data;
     };
+	
+	
+
+	Controller.prototype.ThrowSampleError = function()
+	{
+		throw new Error();
+	};
 
 
 

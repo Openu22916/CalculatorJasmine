@@ -20,6 +20,8 @@ Model.prototype.performEval = function()
             data : ex.message
         };
 	}
+	
+	
 	return result;
 };
 
