@@ -39,6 +39,10 @@ https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
   
 4. Helping the JASMINE Project by trying to fix exiting issues within it :heavy_check_mark:
     * Fix for Issue #1317 - "Calling to toThrowError with no arguments erros via assuming the undefined argument is a regex" pull request was inserted.
+    A succesfful build was added as a pull Request for Jasmine's Master Repository was created
+    ![Successull build for my Fix's code changes](http://i.imgur.com/g6H9YGe.png)
+    https://travis-ci.org/jasmine/jasmine/builds/253916250
+
 
 
 
