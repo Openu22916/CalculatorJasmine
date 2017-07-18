@@ -27,8 +27,8 @@ https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
 2. Investigation & Demo Project :heavy_check_mark:
 3. Investigation of Software Engineering methods and functionalities used in the JASMINE TDDs project :heavy_check_mark:
 
- including:
-    * Version Control System - the Entire JASMINE Project is saved and handled using GitHub.
+including:
+    Version Control System - the Entire JASMINE Project is saved and handled using GitHub.
     
     * TDDs - The project's main purpose is to give TDD abilities to JS Developers - even if it wasnt constructed with TDDs it is worh mentioning that this is the main SE practice this project is talking about.
     
