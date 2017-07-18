@@ -28,16 +28,24 @@ https://cdn.rawgit.com/Zagagy/CalculatorJasmine/43b249dd/jasmine/SpecRunner.html
 3. Investigation of Software Engineering methods and functionalities used in the JASMINE TDDs project :heavy_check_mark:
 
  including:
-a. Version Control System - the Entire JASMINE Project is saved and handled using GitHub.
-b. TDDs - The project's main purpose is to give TDD abilities to JS Developers - even if it wasnt constructed with TDDs it is worh mentioning that this is the main SE practice this project is talking about.
-c. Reuse - This project reuses multiple existing technologies from the web and JS word, some of them are AJAX, NodeJS and Pythons Egg, Ruby Gems and 
-d. Backlog for Raised issues - https://github.com/jasmine/jasmine/issues
-e. Backlog for future releases(as User Stories) - https://www.pivotaltracker.com/n/projects/10606
-f. Use of Burnup Chart - https://www.pivotaltracker.com/reports/v2/projects/10606/overview?selected_tab=burnup
-g. Use of Comulative flow chart - https://www.pivotaltracker.com/reports/v2/projects/10606/overview?selected_tab=flow
-h. Use of Iterations(Sprints) of a week - https://www.pivotaltracker.com/reports/v2/projects/10606/iterations/current
-i. Use of Story Points, Acceptans Criteria, Tasks and US within a sprint
-  
+    * Version Control System - the Entire JASMINE Project is saved and handled using GitHub.
+    
+    * TDDs - The project's main purpose is to give TDD abilities to JS Developers - even if it wasnt constructed with TDDs it is worh mentioning that this is the main SE practice this project is talking about.
+    
+    * Reuse - This project reuses multiple existing technologies from the web and JS word, some of them are AJAX, NodeJS and Pythons Egg, Ruby Gems and 
+    
+    * Backlog for Raised issues - https://github.com/jasmine/jasmine/issues
+    
+    * Backlog for future releases(as User Stories) - https://www.pivotaltracker.com/n/projects/10606
+    
+    * Use of Burnup Chart - https://www.pivotaltracker.com/reports/v2/projects/10606/overview?selected_tab=burnup
+    
+    * Use of Comulative flow chart - https://www.pivotaltracker.com/reports/v2/projects/10606/overview?selected_tab=flow
+    
+    * Use of Iterations(Sprints) of a week - https://www.pivotaltracker.com/reports/v2/projects/10606/iterations/current
+    
+    * Use of Story Points, Acceptans Criteria, Tasks and US within a sprint
+      
 4. Helping the JASMINE Project by trying to fix one of Jasmine's exiting issues :heavy_check_mark:
     * Fix for Issue #1317 - "Calling to toThrowError with no arguments erros via assuming the undefined argument is a regex" pull request was inserted.
     A succesfful build was added as a pull Request for Jasmine's Master Repository was created
