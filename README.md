@@ -11,8 +11,8 @@ About [Jasmine](https://github.com/jasmine/jasmine) -
 4. Jasmine's GitHub repository can be found at: https://github.com/jasmine/jasmine
 
 
-This Project contains a sample Calculator written in JS.
-Its main goal is to use JASMINE TDDs Framework and to be able to analize and investigate Software Engineering practices performed in it.
+This Project contains a sample Calculator written in pure JS.
+Its main goal is to use JASMINE TDDs Framework and to be able to analyze and investigate Software Engineering practices performed in it.
 ![Image of Calculator Jasmine](https://image.ibb.co/gPnDFk/logo.png)
 
 ### Working Project Directly from this repository can be found at:
